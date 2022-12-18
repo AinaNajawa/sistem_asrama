@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(19, 12, 14);
+}
+
+
+*{
+    color: black;
+    font-family:'Times New Roman', Times, serif ;
+}
+.register{
+   /* margin-left: 35%; */
+    /* border: 2px solid black; */
+    /* border-radius: 8px; */
+    padding: 4px;
+    /* margin-right: 34%; */
+
+}

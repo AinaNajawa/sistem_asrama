@@ -1,0 +1,44 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+ th:hover {background-color: tan;
+}
+.div1{
+    box-sizing:content-box;
+    width: 200px;
+    height: 45px;
+    padding: 30px;  
+    margin-left: auto; 
+  margin-right: auto;
+    border: 2px solid black;
+}
+body{
+    background-color:  rgb(218, 79, 125);
+}
+
+*{
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    border: 5px solid #db976a;
+    margin-left: auto; 
+    margin-right: auto;
+    
+}
+.name{
+background-color: blue;
+color: aliceblue;
+}
+.edit{
+  margin-left: 30
+  0px;
+}

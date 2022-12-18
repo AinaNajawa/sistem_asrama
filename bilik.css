@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(218, 79, 125);
+}
+
+
+*{
+    color: black;
+    font-family:'Times New Roman', Times, serif ;
+}
+.register{
+   /* margin-left: 35%; */
+    /* border: 2px solid black; */
+    /* border-radius: 8px; */
+    padding: 4px;
+    /* margin-right: 34%; */
+
+}
+/* .img{
+    ketengah kan gambar
+    margin-left: 45%;
+
+    
+} */
